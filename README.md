@@ -21,7 +21,7 @@ This was the simulated and real-world test of correspondence matching using epip
 This is the non-updated GUI, created in the early stages of my dissertation. The GUI was fully discussed in Appendix of the dissertation, and a lot of the features will need to be updated.  
 
 **MATLAB INTRINSIC PARAMS**:
-This is the intrinsic parameters of the specific OpenMV H7 R2 cameras used in my dissertation. The code connects to this file path when setting the intrinsics in the final motion capture code, therefore you might need to edit the final code so that it captures your camera intrinsics rather than these. If you're using the exact same cameras I was using, you still may need to recalibrate them as the focus might have been adjusted :(. This file is just here for completness sake, so feel free to ignore it (or delete it!).
+This is the intrinsic parameters of the specific OpenMV H7 R2 cameras used in my dissertation. The code connects to this file path when setting the intrinsics in the final motion capture code, therefore you might need to edit the final code so that it captures your camera intrinsics rather than these. If you're using the exact same cameras I was using, you still may need to recalibrate them as the focus might have been adjusted :(. This file is just here for completness sake, so feel free to ignore it (or delete it!). Please ensure that you connect the correct intrinsics to the correct cameras!
 
 **MISC**: 
 This is misc files, might add a bit more to it but for now it just has a real-world triangulation test. This test was used to verify the accuracy of the calibration process and to see how accurate the cameras were using varying resolutions. This was also developed using first principles!
