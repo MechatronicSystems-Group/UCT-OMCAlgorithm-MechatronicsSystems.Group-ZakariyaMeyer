@@ -1,0 +1,6 @@
+CAM 1 = BLUE - RED - GREY - WHITE wires
+CAM 2 = BLACK - BROWN - RED - ORANGE wires
+CAM 3 = BLACK - WHITE - RED - BROWN wires
+CAM 4 = YELLOW - GREEN - RED - ORANGE wires
+CAM 5 =
+CAM 6 = 
